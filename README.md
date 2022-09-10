@@ -25,7 +25,7 @@ This is needed to use the 'Check Online' feature
 [URL_Launcher](https://pub.dev/packages/url_launcher)
 
 ## Who can use this?
-Anyone is allowed to download the files or modify the code.  
+Everyone is allowed to download the files or modify the code.  
 However, should you wish to publish this work in your socials, please provide appropriate credits.  
 
 You can add this as your description if you like:  
