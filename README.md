@@ -7,7 +7,6 @@ DateDayCalculator Simple app that calculates day of any specified date.
 ## Instructions
 Download the latest release of .apk from the Releases section.  
 To view source code, simply go into the lib folder for the dart files along with the app pages.  
-Answers.txt contains over 2300 words.
 
 ### Settings
 You can use the inbuilt settings to:  
