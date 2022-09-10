@@ -16,7 +16,7 @@ You can use the inbuilt settings to:
 - Change Accent Colour  
 - Read About  
   
-[Screenshot_20220909-222849](https://user-images.githubusercontent.com/113077967/189462949-663371d1-0760-4502-a6ce-5cedb75ab182.jpg)
+![Screenshot_20220909-222849](https://user-images.githubusercontent.com/113077967/189462949-663371d1-0760-4502-a6ce-5cedb75ab182.jpg)
   
 ### Important!
 
