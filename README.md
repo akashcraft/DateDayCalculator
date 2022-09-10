@@ -1,4 +1,4 @@
-# About
+# About this App
 DateDayCalculator Simple app that calculates day of any specified date.  
   
 <img src="https://user-images.githubusercontent.com/113077967/189462936-182044e2-948a-41af-b2e7-15f65dfa2fcd.jpg" width="324" height="660">
