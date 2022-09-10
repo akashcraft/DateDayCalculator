@@ -1,7 +1,7 @@
 # About
 DateDayCalculator Simple app that calculates day of any specified date.  
   
-![Screenshot_20220909-222834](https://user-images.githubusercontent.com/113077967/189462936-182044e2-948a-41af-b2e7-15f65dfa2fcd.jpg)
+<img src="https://user-images.githubusercontent.com/113077967/189462936-182044e2-948a-41af-b2e7-15f65dfa2fcd.jpg" width="324" height="660">
   
 
 ## Instructions
@@ -16,7 +16,7 @@ You can use the inbuilt settings to:
 - Change Accent Colour  
 - Read About  
   
-![Screenshot_20220909-222849](https://user-images.githubusercontent.com/113077967/189462949-663371d1-0760-4502-a6ce-5cedb75ab182.jpg)
+<img src="https://user-images.githubusercontent.com/113077967/189462949-663371d1-0760-4502-a6ce-5cedb75ab182.jpg" width="324" height="660">
   
 ### Important!
 
